@@ -7,7 +7,7 @@ import { createLayout } from './layout';
 
 export async function aboutPage(env) {
   // Load settings from KV for SEO
-  let siteName = 'B2B Product Exhibition';
+  let siteName = 'YODO ELECTRIC _ Power Fittings & Electrical Equipment Manufacturer';
   try {
     const settingsJson = await env.STATIC_ASSETS.get('website_settings');
     if (settingsJson) {
