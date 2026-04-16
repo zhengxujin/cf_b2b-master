@@ -34,7 +34,7 @@ export async function aboutPage(env) {
           <h2 style="font-size: 2rem; margin-bottom: 1rem; color: var(--primary-color);">Who We Are</h2>
           <p style="color: var(--text-light); line-height: 1.8; margin-bottom: 1rem;">
             Founded in 2000, our company has grown to become a leading provider of high-quality
-            industrial products and solutions. With over two decades of experience, we serve
+            Power Fittings & Electrical Equipment Manufacturer. With over two decades of experience, we serve
             clients across 50+ countries worldwide.
           </p>
           <p style="color: var(--text-light); line-height: 1.8; margin-bottom: 1rem;">
